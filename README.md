@@ -10,7 +10,7 @@ It enables data-driven decision-making by offering insights into **sales revenue
 
 ### **1️ Sales & Revenue Trends**  
 -  **Quantity and Revenue by Year**  
-- 🏷 **Total Sales and Revenue by Product Category and Year**  
+-  **Total Sales and Revenue by Product Category and Year**  
   - _Tracks yearly sales trends and product category performance in Territory 1._
 
 ### **2️ Sales Performance by Team**  
@@ -30,7 +30,7 @@ It enables data-driven decision-making by offering insights into **sales revenue
 ---
 
 ## 🎯 Key Insights & Benefits  
-✔ **Performance Benchmarking** – Compare **sales managers, product categories, and stores** to identify top performers.  
-✔ **Revenue Growth Analysis** – Understand how sales and revenue have evolved over time in **Territory 1**.  
-✔ **Customer Satisfaction Impact** – Evaluate how store performance and customer satisfaction influence sales.  
-✔ **Data-Driven Decision Making** – Use visual insights to **optimize sales strategies and improve operational efficiency**.  
+ **Performance Benchmarking** – Compare **sales managers, product categories, and stores** to identify top performers.  
+ **Revenue Growth Analysis** – Understand how sales and revenue have evolved over time in **Territory 1**.  
+ **Customer Satisfaction Impact** – Evaluate how store performance and customer satisfaction influence sales.  
+ **Data-Driven Decision Making** – Use visual insights to **optimize sales strategies and improve operational efficiency**.  
