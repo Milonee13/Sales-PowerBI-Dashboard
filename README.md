@@ -1,30 +1,30 @@
 # Sales-PowerBI-Dashboard
 
-# 📊 Sales & Performance Analysis Dashboard - Territory 1 (Honeywell)
+# Sales & Performance Analysis Dashboard - Territory 1 (Honeywell)
 
-## 🚀 Overview  
+## Overview  
 This **Power BI dashboard** provides an in-depth analysis of **Honeywell’s sales performance in Territory 1**.  
 It enables data-driven decision-making by offering insights into **sales revenue, product performance, sales team contributions, and customer satisfaction**.
 
-## 📌 Dashboard Components  
+## Dashboard Components  
 
-### **1️⃣ Sales & Revenue Trends**  
-- 📅 **Quantity and Revenue by Year**  
-- 🏷️ **Total Sales and Revenue by Product Category and Year**  
+### **1️ Sales & Revenue Trends**  
+-  **Quantity and Revenue by Year**  
+- 🏷 **Total Sales and Revenue by Product Category and Year**  
   - _Tracks yearly sales trends and product category performance in Territory 1._
 
-### **2️⃣ Sales Performance by Team**  
-- 👨‍💼 **Total Sales Quantity by Sales Manager**  
-- 💰 **Total Revenue by Sales Manager**  
+### **2️ Sales Performance by Team**  
+-  **Total Sales Quantity by Sales Manager**  
+-  **Total Revenue by Sales Manager**  
   - _Assesses individual sales managers' contributions to total sales._
 
-### **3️⃣ Store and Product Performance**  
-- 🏪 **Total Revenue by Product Category, Sales Manager, and Store**  
-- 📦 **Total Sales Quantity by Product Category, Sales Manager, and Store**  
+### **3️ Store and Product Performance**  
+-  **Total Revenue by Product Category, Sales Manager, and Store**  
+-  **Total Sales Quantity by Product Category, Sales Manager, and Store**  
   - _Identifies top-performing product categories and locations._
 
-### **4️⃣ Customer Experience & Store Analysis**  
-- ⭐ **Sales Quantity and Satisfaction Score for Each Store**  
+### **4️ Customer Experience & Store Analysis**  
+-  **Sales Quantity and Satisfaction Score for Each Store**  
   - _Helps analyze how customer satisfaction correlates with sales performance._
 
 ---
